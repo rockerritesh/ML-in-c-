@@ -1,4 +1,4 @@
-# ML-in-c-
+# ML-in-C++
 #without using any modulus, only in for loop.
 
 // In this program i have made a simple linear regression model of two variable i.e. y =mx+b.
