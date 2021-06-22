@@ -9,3 +9,4 @@
 // This program suppose price and area are linearly dependent.
  # logisctic regression
  // In this model i made a simple logistic regression.
+## This can be modefied to any any machine learning model by simple changing lost and cost function.
